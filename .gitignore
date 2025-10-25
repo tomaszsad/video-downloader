@@ -1,0 +1,10 @@
+# Ignoruj pobrane pliki wideo
+*.mp4
+*.mkv
+*.webm
+
+# Ignoruj pliki cache Pythona
+__pycache__/
+
+# Plik z ciasteczkami - BARDZO WAŻNE
+cookies.txt
